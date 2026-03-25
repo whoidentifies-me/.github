@@ -26,12 +26,14 @@ As EU member states roll out the **European Digital Identity Wallet**, governmen
 
 The platform crawls and aggregates data from official sources, enabling civil society, researchers, and citizens to monitor the eIDAS Wallet rollout across Europe.
 
+> **Note:** The project is currently in demo stage. The [live demo](https://demo.whoidentifies.me) uses synthetic data to showcase the platform's functionality.
+
 ### Repositories
 
 | Repository | Description |
 |:--|:--|
-| [**frontend**](https://github.com/whoidentifies-me/frontend) | Web interface &mdash; SolidJS + TypeScript, search and discovery UI |
-| [**api**](https://github.com/whoidentifies-me/api) | Backend API &mdash; Go, PostgreSQL, multi-source data aggregation |
+| [**frontend**](https://github.com/whoidentifies-me/frontend) | Web interface |
+| [**api**](https://github.com/whoidentifies-me/api) | Backend API |
 | [**help**](https://github.com/whoidentifies-me/help/blob/main/README.md) | User documentation and guides |
 
 ---
