@@ -30,11 +30,9 @@ The platform crawls and aggregates data from official sources, enabling civil so
 
 ### Repositories
 
-| Repository | Description |
-|:--|:--|
-| [**frontend**](https://github.com/whoidentifies-me/frontend) | Web interface |
-| [**api**](https://github.com/whoidentifies-me/api) | Backend API |
-| [**help**](https://github.com/whoidentifies-me/help/blob/main/README.md) | User documentation and guides |
+- [**frontend**](https://github.com/whoidentifies-me/frontend) — Web interface
+- [**api**](https://github.com/whoidentifies-me/api) — Backend API
+- [**help**](https://github.com/whoidentifies-me/help/blob/main/README.md) — User documentation and guides
 
 ---
 
